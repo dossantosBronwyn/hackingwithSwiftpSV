@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "96B08989-BCA9-47CD-95AD-FBC57AFA4356"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34C4B0DE-40E3-4457-93E0-AB15B76542F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1StormViewer/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "34C4B0DE-40E3-4457-93E0-AB15B76542F9 - 92a983f08b379eb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1StormViewer.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Project1StormViewer.DetailViewController"
+                  moduleName = "Project1StormViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bronwyndossantos/Desktop/IACD%20LEARNING/DemiaCtivities/HackingWithSwift/Project1-StormViewer/Project1StormViewer/Project1StormViewer/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "34C4B0DE-40E3-4457-93E0-AB15B76542F9 - 3b866ff122adaada"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1StormViewer.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Project1StormViewer.DetailViewController&gt;"
+                  moduleName = "Project1StormViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bronwyndossantos/Desktop/IACD%20LEARNING/DemiaCtivities/HackingWithSwift/Project1-StormViewer/Project1StormViewer/Project1StormViewer/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39F56703-3C6A-4112-9E77-4100DB90CD58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1StormViewer/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "39F56703-3C6A-4112-9E77-4100DB90CD58 - 61ee05843888c347"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1StormViewer.DetailViewController.imageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Project1StormViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bronwyndossantos/Desktop/IACD%20LEARNING/DemiaCtivities/HackingWithSwift/Project1-StormViewer/Project1StormViewer/Project1StormViewer/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "39F56703-3C6A-4112-9E77-4100DB90CD58 - 3bf36ce3514abf53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1StormViewer.DetailViewController.imageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Project1StormViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bronwyndossantos/Desktop/IACD%20LEARNING/DemiaCtivities/HackingWithSwift/Project1-StormViewer/Project1StormViewer/Project1StormViewer/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "39F56703-3C6A-4112-9E77-4100DB90CD58 - e4a7d529dfbc6444"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1StormViewer.DetailViewController.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Project1StormViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bronwyndossantos/Desktop/IACD%20LEARNING/DemiaCtivities/HackingWithSwift/Project1-StormViewer/Project1StormViewer/Project1StormViewer/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "39F56703-3C6A-4112-9E77-4100DB90CD58 - e3c75c50d1226e91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1StormViewer.DetailViewController.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Project1StormViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bronwyndossantos/Desktop/IACD%20LEARNING/DemiaCtivities/HackingWithSwift/Project1-StormViewer/Project1StormViewer/Project1StormViewer/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "39F56703-3C6A-4112-9E77-4100DB90CD58 - 92a983f08b379eb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1StormViewer.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Project1StormViewer.DetailViewController"
+                  moduleName = "Project1StormViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bronwyndossantos/Desktop/IACD%20LEARNING/DemiaCtivities/HackingWithSwift/Project1-StormViewer/Project1StormViewer/Project1StormViewer/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "39F56703-3C6A-4112-9E77-4100DB90CD58 - 3b866ff122adaada"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1StormViewer.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Project1StormViewer.DetailViewController&gt;"
+                  moduleName = "Project1StormViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bronwyndossantos/Desktop/IACD%20LEARNING/DemiaCtivities/HackingWithSwift/Project1-StormViewer/Project1StormViewer/Project1StormViewer/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5F6C24A-388A-470A-A123-150F32548842"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1StormViewer/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewWillDisappear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
